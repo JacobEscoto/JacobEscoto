@@ -8,6 +8,5 @@ me gusta aprender sobre nuevas tecnologías como web3, blockchain, entre otros.
 - Participar en **Hackathons**
 
 ## 🛠 Actualmente estoy aprendiendo
-- **Lenguajes:** Solidity, Java, Python
-- **Blockchain:** Ethereum  
-- **Herramientas:** Metamask
+- **Lenguajes:** Solidity, Java, Python, C++
+- **Blockchain:** Ethereum
