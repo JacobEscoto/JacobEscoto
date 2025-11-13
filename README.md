@@ -1,28 +1,20 @@
-<br clear="both">
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=101&section=header&reversal=false&text=Jacob%20Escoto&fontSize=37&fontColor=FFFFFF&fontAlign=17&fontAlignY=30&stroke=-&animation=fadeIn&descSize=6&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
-</div>
-
-###
-
 <h1 align="left">👋 ¡Hola! Soy Jacob Escoto</h1>
 
 ###
 
-<p align="left">Actualmente estoy cursando la carrera de *Ingeniería en Sistemas Computaciones* y me gusta aprender sobre nuevas tecnologías como web3, blockchain, entre otros.</p>
+<p align="left">Actualmente estoy cursando la carrera de Ingeniería en Sistemas Computaciones y me gusta aprender sobre nuevas tecnologías como web3, blockchain, entre otros.</p>
 
 ###
 
-<h5 align="left">🎯 Metas</h5>
+<h3 align="center">🎯 Metas</h3>
 
 ###
 
-<p align="left">- Dominar **Solidity** y **contratos inteligentes**<br>- Participar en **Hackathons**</p>
+<p align="left">- Dominar Solidity y contratos inteligentes<br>- Participar en Hackathons</p>
 
 ###
 
-<h5 align="left">🛠 Stacks</h5>
+<h3 align="center">🛠 Stacks</h3>
 
 ###
 
