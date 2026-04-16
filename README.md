@@ -1,6 +1,6 @@
 # Hi, I'm Jacob Escoto
 
-I am a Computer Systems Engineering student (3rd semester) with an interest in web and backend development.
+I am a Computer Systems Engineering student (3rd semester) with an interest in web development.
 Currently building an automation workflow for SEO analytics using Javascript and an n8n workflow.
 
 ## About Me
