@@ -1,7 +1,7 @@
 # Hi, I'm Jacob Escoto
 
-I am a Computer Systems Engineering student (3rd semester) with an interest in Web3 and blockchain development.
-I am currently building a project to track my academic history using Java and Maven.
+I am a Computer Systems Engineering student (3rd semester) with an interest in web and backend development.
+Currently building an automation workflow for SEO analytics using Javascript and an n8n workflow.
 
 ## About Me
 
@@ -18,29 +18,28 @@ I am currently building a project to track my academic history using Java and Ma
 ## Tech Stack and Tools
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/apachemaven/C71A36" height="40" alt="apache maven logo" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/debian/A81D33" height="40" alt="debian logo" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
-
-## Featured Projects
-
-- Academic History Tracker (Java + Maven)
-  Project to record and review academic history in a structured way.
 
 ## Currently Learning
 
 - Java development
 - Software best practices
-- Web3 and blockchain fundamentals
+- Frontend development
 
 ## GitHub Activity
 
@@ -52,4 +51,5 @@ I am currently building a project to track my academic history using Java and Ma
 
 ## Contact
 
-- GitHub: https://github.com/JacobEscoto
+- [GitHub](https://github.com/JacobEscoto)
+- [LinkedIn](https://www.linkedin.com/in/jacobescoto/)
