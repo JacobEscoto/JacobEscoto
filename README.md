@@ -49,4 +49,13 @@ I am a Computer Systems Engineering student specializing in full stack applicati
 <img src="https://raw.githubusercontent.com/JacobEscoto/JacobEscoto/output/snake.svg" alt="Snake animation" />
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 28 April 2026 - To: 05 May 2026
+
+Total Time: 24 mins
+
+Markdown   19 mins               ████████████████████░░░░░   79.64 %
+```
+
 <!--END_SECTION:waka-->
