@@ -21,7 +21,6 @@ I am a **Computer Systems Engineering student** curious in how technology works.
 
 - **LinkedIn**: [linkedin.com/in/jacobescoto](https://linkedin.com/in/jacobescoto/)
 - **GitHub**: [github.com/JacobEscoto](https://github.com/JacobEscoto)
-- **Twitter/X**: [@jcb08_](https://x.com/jcb08_)
 - **Email**: djacobescotoz@gmail.com
 
 > 💼 Open to internships, collaborations, freelance work - feel free to reach out!
