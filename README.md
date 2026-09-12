@@ -1,12 +1,12 @@
-# 👋🏽 Hi, I'm Jacob Escoto
+# 👋 Hi, I'm Jacob Escoto
 
 I am a **Computer Systems Engineering student** curious in how technology works. Currently, I spend my free time learning new programming languages or strengthening my programming skills.
 
 ## 👨‍💻 About Me
 
-- ✨ Learning **Go** to build my own custom command-line tools for the terminal.
-- 🔭 My goal is to understand how things work rather than just building random apps.
-- ⚡ Mastering the command line and customizing my workflow with **Bash** and **WSL (Debian)**.
+- 🔭 Passionate about learning and discovering new things everyday.
+- 🚀 I love open source projects.
+- ⚡ Mastering the command line and customizing my workflow with **Bash**.
 
 ## 🧰 Tech Stack
 
