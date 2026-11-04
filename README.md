@@ -6,12 +6,12 @@ Currently, I spend my free time learning Rust, ricing my Linux setup, and buildi
 ## 🧰 Tech Stack
 
 ### Languages & Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Go" title="Go" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" title="Java" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" height="40" alt="Rust" title="Rust" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" title="GitHub" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="40" alt="Go" /> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" alt="Java" /> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" alt="Python" /> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" width="40" alt="Rust" /> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" alt="Git" /> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" alt="GitHub" />
 
 ## 🌐 Connect
 
